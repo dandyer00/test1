@@ -1,2 +1,3 @@
 this is a second file that is added
 and then changed
+and more changes
